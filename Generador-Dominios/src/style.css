@@ -1,0 +1,14 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: white;
+}
+
+
+
+.tecla {
+    padding: 4px;
+    margin: 2px;
+    background-color: darkgrey;
+    border-radius: 5px;
+}
